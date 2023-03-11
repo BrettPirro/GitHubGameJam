@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 85e74db001330ac449ced57f435f9e64
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: d52c9b6ee89a2644a8f48611ae07f9f6
+  - enabled: 1
+    path: Assets/Scenes/Puzzle1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/HellMachineEntrance.unity
+    guid: 88c9b8d73b4e9b54baa5fa726be32f2f
+  - enabled: 1
+    path: Assets/Scenes/Jester.unity
+    guid: 49d564e36d9312648b7c0360b81af48c
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 993a62ed2aca14545b54d6ca5eb6ed72
+  m_configObjects: {}
